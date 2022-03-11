@@ -1,0 +1,14 @@
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.exe
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.deps.json
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.runtimeconfig.json
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.runtimeconfig.dev.json
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.dll
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\bin\Debug\netcoreapp3.1\SyntaxSugarConsole.pdb
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.AssemblyInfo.cs
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.dll
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.pdb
+C:\Users\abner\source\repos\SyntaxSugar\SyntaxSugarConsole\obj\Debug\netcoreapp3.1\SyntaxSugarConsole.genruntimeconfig.cache
